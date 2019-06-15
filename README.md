@@ -1,3 +1,3 @@
-# accelerated-mobile-pages-bedrock
+# AMP
 
-This folder contains ***HMTL*** source code
+This folder contains ***AMP tutorial*** source code
